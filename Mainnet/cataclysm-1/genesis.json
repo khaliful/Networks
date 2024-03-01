@@ -837,6 +837,15 @@
           ]
         },
         {
+          "address": "nibi1nvyje35l47hul850wddv96n4qfrtqf35axphap",
+          "coins": [
+            {
+              "denom": "unibi",
+              "amount": "50000000"
+            }
+          ]
+        },
+        {
           "address": "nibi1w26kzhwhely77xup3npfh70tzuc4amtxwfp9pv",
           "coins": [
             {
